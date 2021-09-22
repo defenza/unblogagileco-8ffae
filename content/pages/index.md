@@ -4,20 +4,19 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Hola, la agilidad se puede desbloquear con conocimiento'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Me encantaria conversar, compartir y crear conocimiento para desbloquear la agilidad.
     actions:
-      - label: Let's talk
+      - label: ¡Hablemos!
         url: /contact
         style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
-    projects_number: 6
+    title: Mi trabajo
+    subtitle:
+    projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
