@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "UnBlogAgile",
     "path_prefix": "/",
-    "color_scheme": "light",
+    "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
-        "title": "UBAG",
+        "title": "UBGA",
         "has_nav": true,
         "nav_links": [
             {
@@ -45,28 +45,21 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/defenza82",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/defenza7",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/luis-miguel-gonzalez-bernal/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
