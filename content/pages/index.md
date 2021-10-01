@@ -4,10 +4,11 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
+
     title: 'Hola, la agilidad se puede desbloquear con conocimiento'
     content: >-
       Me encantaria conversar, compartir y crear conocimiento para desbloquear la agilidad.
-    actions:
+   actions:
       - label: ¡Hablemos!
         url: /contact
         style: button
