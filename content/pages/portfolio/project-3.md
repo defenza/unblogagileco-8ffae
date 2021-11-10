@@ -1,13 +1,13 @@
 ---
-title: Project Title 3
+title: Compartir conocimiento
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/aocTalks.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
-image: images/3.jpg
+image: images/aocTalks.jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
-  title: Project Title 3
+  title: Compartir conocimiento
   description: This is the project 3 description
   extra:
     - name: 'og:type'

@@ -1,13 +1,13 @@
 ---
-title: Project Title 2
+title: Fondo Nacional del Ahorro
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: images/fna.jpg
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: images/fna.jpg
 image_alt: An orange on a blue background
 seo:
-  title: Project Title 2
+  title: Fondo Nacional del Ahorro
   description: This is the project 2 description
   extra:
     - name: 'og:type'
