@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hola!, soy Luis Miguel Gonzalez'
+    title: 'Hola, soy Luis Miguel Gonzalez'
     content: >
       Me apasiona la agilidad y entender como podemos cambiar los entornos, para
       hacer una mejor agilidad.
